@@ -38,9 +38,6 @@ keywords: Michael Black, economics, health economics, cost-benefit analysis
 
 	<div class="row-fluid">
         <div class="span7">
-            <br/>
-            <br/>
-            <br/>
             <p style="font-size:36px"> &#128075;</p>
             <br/>
             <br/>   
