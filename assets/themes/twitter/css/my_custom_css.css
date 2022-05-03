@@ -1,0 +1,134 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+
+code {
+  padding: 0;
+  font-size: 90%;
+  color: black;
+  background-color: white;
+  border: 0px solid white;
+}
+
+.tab button:hover {
+  background-color: #ddd;
+}
+
+body {
+  font-family: 'Playfair Display', serif;
+  background-image: linear-gradient(to right, #ffffff , #ffffff);
+}
+
+p {
+ font-family: 'Lato', sans-serif;
+ color: black;
+}
+
+a code {
+    color: #slateblue;
+}
+
+a {
+    color: #253f94;
+}
+
+/*a:hover {
+    color: darkslateblue;
+    background-color: #ffffff;
+    text-decoration: none;
+}
+*/
+
+/*a img {
+    border: solid 2px white;
+}
+*/
+
+/*
+a:hover img {
+    color: darkslateblue;
+    background-color: #e3e4fa;
+    text-decoration: none;
+    border: solid 2px #e3e4fa;
+}
+*/
+
+p.center {
+    text-align: center;
+}
+
+table.wide {
+    width: 100%;
+}
+
+table.wide td {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+td.left {
+    text-align: left;
+}
+
+td.right {
+    text-align: right;
+}
+
+#hide_email b {
+    display: none;
+}
+
+
+h1, h2, h3, h4 {
+    color: black;
+}
+
+.danger {
+    background-color: #ffdddd;
+    border-left: 6px solid #f44336;
+    padding-left: 10px;
+}
+
+.success {
+    background-color: #ddffdd;
+    border-left: 6px solid #4CAF50;
+    padding-left: 10px;
+}
+
+.info {
+    background-color: #e7f3fe;
+    border-left: 6px solid #2196F3;
+    padding-left: 10px;
+}
+
+
+.warning {
+    background-color: #ffffcc;
+    border-left: 6px solid #ffeb3b;
+    padding-left: 10px;
+}
+
+
+.navbar-inner {
+    min-height:40px;
+    padding-left:20px;
+    padding-right:20px;
+    background-color:#fafafa;
+    background-image:-moz-linear-gradient(left, #232526, #414345);
+    background-image:-webkit-gradient(linear, 0 0, 0 100%, from(#232526), to(#414345));
+    background-image:-webkit-linear-gradient(left, #232526, #414345);
+    background-image:-o-linear-gradient(left, #232526, #414345);
+    background-image:linear-gradient(to right, #232526, #414345);
+    background-repeat:repeat-x;filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#707373', endColorstr='#707373', GradientType=0);
+    border:0px solid #707373;
+    -webkit-border-radius:0px;
+    -moz-border-radius:0px;
+    border-radius:0px;
+    -webkit-box-shadow:0 1px 4px rgba(0, 0, 0, 0.065);
+    -moz-box-shadow:0 1px 4px rgba(0, 0, 0, 0.065);
+    box-shadow:0 1px 4px rgba(0, 0, 0, 0.065);*zoom:1;
+}
+
+.span3 {
+  color: black
+}
