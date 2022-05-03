@@ -36,24 +36,25 @@ keywords: Michael Black, economics, health economics, cost-benefit analysis
 <div class="container">
 <h4><a name="about"></a>About</h4>
 
-	<a href="https://www.linkedin.com/in/michaelblack438/">
+	<div class="row-fluid">
+        <div class="span7">
+            <br/>
+            <br/>
+            <br/>
+            <p style="font-size:36px"> &#128075;</p>
+            <br/>
+            <br/>   
+            Hello! I am a public health economist with the U.S. Food & Drug Administration. Any views expressed here are my own.
+        </div>
+    </div>
+    <br/>
+    <a href="https://www.linkedin.com/in/michaelblack438/">
 	    <img src="../pages/icons64/linkedin.png" width="40" height="40"/></a>
 	<a href="https://github.com/michaelb1ack">
 	    <img src="../pages/icons64/github.png" width="40" height="40"/></a>
 	<a href="https://www.youtube.com/channel/UCxDNlrqcNZ4c3yS8IN_aC7A/featured">
 	    <img src="../pages/icons64/youtube.png" width="40" height="40"/></a> <br/>
-	<div class="row-fluid">
-		<div class="span7">
-			<br/>
-            <br/>
-            <br/>
-            <p style="font-size:48px"> &#128075;</p>
-            <br/>
-            <br/>
-            <br/>
-            Hello! I am a public health economist with the U.S. Food & Drug Administration. Any views expressed here are my own.
-		</div>
-	</div>
+	
 </div>
 
 
