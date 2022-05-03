@@ -1,8 +1,8 @@
 ---
 layout: frontpage
 title: Michael Black
-description: Michael Black is a PhD candidate at Texas A&M University.
-keywords: Michael Black, economics, resource economics, environmental economics, non-market valuation
+description: Michael Black is a public health economist at the US FDA.
+keywords: Michael Black, economics, health economics, cost-benefit analysis
 ---
 
 <div class="container">
@@ -38,18 +38,15 @@ keywords: Michael Black, economics, resource economics, environmental economics,
 
 	<a href="https://www.linkedin.com/in/michaelblack438/">
 	    <img src="../pages/icons64/linkedin.png" width="40" height="40"/></a>
-	<a href="https://github.com/michael-black">
+	<a href="https://github.com/michaelb1ack">
 	    <img src="../pages/icons64/github.png" width="40" height="40"/></a>
 	<a href="https://www.youtube.com/channel/UCxDNlrqcNZ4c3yS8IN_aC7A/featured">
 	    <img src="../pages/icons64/youtube.png" width="40" height="40"/></a> <br/>
 	<div class="row-fluid">
 		<div class="span7">
 			<br/>
-            Greetings! I am currently in limbo between successfully defending my PhD and starting a new role as a federal economist. Stay tuned for more details!
-			<!-- I am a Ph.D. candidate in the Department of Agricultural Economics at Texas A&M University. I am an applied micro-economist with specializations in choice and causal modeling. My choice modeling work uses observed or elicited choices from consumers to build demand systems, from which we can learn a lot about the value of products or their attributes. My causal modeling work leverages quasi-experimental data to understand the effect of policies that were not randomly rolled out. 
-			<br/>
-			<br/>
-			Prior to graduate studies, I was a strategy consultant with the Mahindra Group in Mumbai, India, and completed a B.S. degree in natural resource management from Cornell University in Ithaca, New York. I am originally from the Ozark mountains in northwest Arkansas. -->
+            <p style="font-size:48px"> &#128075;</p>
+            Hello! I am a public health economist with the U.S. Food & Drug Administration. Any views expressed here are my own.
 		</div>
 	</div>
 </div>

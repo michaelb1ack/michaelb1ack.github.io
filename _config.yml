@@ -12,10 +12,10 @@ title : Michael Black
 author :
   name : Michael Black
   email : mblack438@gmail.com
-  github : michael-black
-  twitter : michae1black
+  github : michaelb1ack
+  # twitter : michae1black
 
-production_url : http://michael-black.github.io
+production_url : http://michaelb1ack.github.io
 
 # Tell Github to use the kramdown markdown interpreter
 # (see https://help.github.com/articles/migrating-your-pages-site-from-maruku)
