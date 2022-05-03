@@ -5,15 +5,12 @@ description: Michael's research
 ---
 
 ### Publications
+[Farmers’ insights on soil health indicators and adoption](https://doi.org/10.1002/agg2.20066)
 
-#### Farmers’ insights on soil health indicators and adoption  
-(with Dianna Bagnall, William Alex McIntosh, Cristine Morgan, Richard Woodward, Marissa Cisneros, Erin Kiella, Srinivasulu Ale)  
-*Agrosystems, Geosicences, & Environment* (2020) [https://doi.org/10.1002/agg2.20066](https://doi.org/10.1002/agg2.20066)
-<br/>
-#### Insights from Asynchronous Lecture Viewing Behavior  
-*Applied Economics Teaching Resources* (Forthcoming)
+[Insights from Asynchronous Lecture Viewing Behavior](https://ageconsearch.umn.edu/record/308057)  
 
-<br/><br/><br/>
+
+<!-- <br/><br/><br/>
 
 ### Working Papers (available upon request)
 
@@ -38,7 +35,7 @@ We use a lagged-dependent fixed-effect model to estimate the causal effect of pa
 <br/>
 #### Beti Padhao: Impact of Women’s Education on their Burden of Contraception in India  
 (with Nishita Sinha)
-
+ -->
 
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
 
