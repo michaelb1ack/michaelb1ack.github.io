@@ -4,7 +4,6 @@ title: Mapo Tofu
 description: mapu tofu
 ---
 
-# Mapo Tofu
 [Original recipe from madewithlau](https://www.madewithlau.com/recipes/mapo-tofu-chicken)
 
 ## Ingredients

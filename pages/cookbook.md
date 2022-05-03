@@ -13,7 +13,9 @@ Enjoy, and *bon appetit*!
 ## American
 
 ## Chinese
-[Mapo tofu](http://michaelb1ack.github.io/pages/recipes/chinese/mapo_tofu.md)
+[Beef & broccoli](https://michaelb1ack.github.io/pages/recipes/chinese/beef_broccoli)
+[Char siu pork](https://michaelb1ack.github.io/pages/recipes/chinese/char_siu_pork)
+[Mapo tofu](https://michaelb1ack.github.io/pages/recipes/chinese/mapo_tofu)
 
 ## Indian
 
