@@ -13,6 +13,7 @@ Enjoy, and *bon appetit*!
 ## American
 
 ## Chinese
+[Mapo tofu](http://michaelb1ack.github.io/pages/recipes/chinese/mapo_tofu.md)
 
 ## Indian
 
