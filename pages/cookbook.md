@@ -13,6 +13,8 @@ Enjoy, and *bon appetit*!
 ## American
 [Chili](https://michaelb1ack.github.io/pages/recipes/american/chili)
 
+[Pan-roasted chicken and vegetables](https://michaelb1ack.github.io/pages/recipes/american/pan_roasted_chicken)
+
 ## Chinese
 [Beef & broccoli](https://michaelb1ack.github.io/pages/recipes/chinese/beef_broccoli)
 
