@@ -21,6 +21,8 @@ keywords: Michael Black, economics, health economics, cost-benefit analysis
         <div class="span4">
         <a href="../assets/mb_no_bg.png">
             <img src="../assets/mb_no_bg.png"
+                  width="200"
+                  height="200"
                   title="Michael Black" alt="Michael Black"/></a>
         </div>
     </div>
